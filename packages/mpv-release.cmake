@@ -27,6 +27,7 @@ ExternalProject_Add(mpv-release
         libjpeg
         libpng
         luajit
+        luasocket
         rubberband
         uchardet
         openal-soft
